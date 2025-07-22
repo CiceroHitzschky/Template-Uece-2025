@@ -9,8 +9,9 @@ A estrutura em si do projeto não foi alterada, apenas alguns ajustes foram feit
 ## Alterações Realizadas 
   - O pontilhado do sumário, lista de figuras, lista de quadros, lista de ilustrações, lista de gráficos, etc;
   - Boa parte dos comentários foram apagados do código para que o aluno pouco habituado não se perca ou se assuste tanto (Coloquei eles ao final desse README);
-
-  -  
+  - As pré-configurações estão para alunos de licenciatura em matemática por padrão, mas podem ser alteradas sem dificuldade;
+  - Alteração da Distância entre o O brasão da Uece e a margem superior da capa;
+  - Alteração da Distância entre o nome do curso de graduação e o autor para 1,5cm. (Atente-se a centralização do título)
 ### Modelos Disponíveis
 Os modelos disponíveis da versão 2019 continuam funcionando. 
 Vale a ressalva de que as alterações foram realizadas apenas no que diz respeito ao TCC.
@@ -189,74 +190,26 @@ Meus sinceros agradecimentos aos desenvolvedores do UeceTeX2 que reduziram meu s
 
 #### Comentários do document.tex
 ```tex
-% Para utilizar este template siga o tutorial disponível em http://www.biblioteca.ufc.br/wp-content/uploads/2015/09/tutorial-sharelatex.pdf
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Você deve criar uma conta no Overleaf. Depois,    %%
-%% vá nas opções no canto esquerdo superior da tela  %%
-%% e clique em "Copiar Projeto". Dê um novo nome pa- %%
-%% ra o projeto.                                     %%
-%%                                                   %%
-%% Os principais desenvolvedores deste template são: %%
-%%                                                   %%
-%%            Ednardo Moreira Rodrigues              %%
-%%       (Doutor em Engenharia Elétrica - UFC)       %%
-%%                      &                            %%
-%%            Alan Batista de Oliveira               %%
-%%           (Engenheiro Eletricista - UFC)          %%
-%%                                                   %%
-%% Consultoria Bibliotecária                         %%
-%%                                                   %%
-%%  Versão 2016 - ShareLaTeX:                        %% 
-%%                                                   %%
-%% - Francisco Edvander Pires Santos;                %%
-%% - Juliana Soares Lima;                            %%
-%% - Izabel Lima dos Santos;                         %%
-%% - Kalline Yasmin Soares Feitosa;                  %%
-%% - Eliene Maria Vieira de Moura.                   %%
-%%
-%%  Versão 2019 - Overleaf:
-%%  
-%%  Biblioteca de Ciências Humanas: 
-%% - Francisco Edvander Pires Santos;                %%
-%% - Juliana Soares Lima;                            %%
-%% - Eliene Maria Vieira de Moura;                   %%
-%% - Edmundo Moreira de Sousa Filho.                 %%
-%%                                                   %%
-%% Biblioteca da FEAAC:                              %%
-%% - Izabel Lima dos Santos;                         %%
-%% - Kalline Yasmin Soares Feitosa;                  %%
-%% - Kleber Lima dos Santos.                         %%
-%%                                                   %%
-%%  Biblioteca do Curso de Física:                   %%
-%% - Aline Rodrigues de Lima Mendes;                 %%
-%% - Maria de Jesus Silva dos Santos.                %%
-%%                                                   %%
-%%  Biblioteca Central do Campus do Pici:            %%
-%% - Raquel da Silva Nascimento.                     %%
-%%                                                   %%
-%% Colaboradores                                     %%
-%%                                                   %%
-%% -Andrei Bosco Bezerra Torres                      %% 
-%% (Professor - Sistemas e Mídias Digitais -         %%
-%% Instituto Universidade Virtual - UFC)             %%
-%% Tiago ALves Lima                                  %% 
-%% (Aluno de Mestrado em Eng. Elétrica)              %%
-%%                                                   %%
-%% Grande parte do trabalho foi adaptado do template %%
-%% da UECE elaborado por:                            %%
-%% Thiago Nascimento  (UECE)                         %%
-%% Project available on:                             %%
-%% https://github.com/thiagodnf/uecetex2             %%
-%%                                                   %%
-%% "Dúvidas, esclarecimentos ou sugestões podem ser  %%
-%% enviadas para o seguinte e-mail:                  %%
-%%                                                   %%
-%%             atendimentobch@ufc.br                 %%
-%%                                                   %%
-%% As últimas atualizações estão descritas no inicio %%
-%% do arquivo "README.md".                           %%
-%%                                                   %%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-```
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Customizações do abnTeX2 (http://abnTeX2.googlecode.com)           %%
+%% para a Universidade Estadual do Ceara - UECE                       %%
+%%                                                                    %%
+%% This work may be distributed and/or modified under the             %% 
+%% conditions of the LaTeX Project Public License, either version 1.3 %%
+%% of this license or (at your option) any later version.             %%
+%% The latest version of this license is in                           %%
+%%   http://www.latex-project.org/lppl.txt                            %%
+%% and version 1.3 or later is part of all distributions of LaTeX     %%
+%% version 2005/12/01 or later.                                       %%
+%%                                                                    %%
+%% This work has the LPPL maintenance status `maintained'.            %%
+%%                                                                    %%
+%% The Current Maintainer of this work is Thiago Nascimento           %%
+%%                                                                    %%
+%% Project available on: https://github.com/thiagodnf/uecetex2        %%
+%%                                                                    %%
+%% Further information about abnTeX2                                  %%
+%% are available on http://abntex2.googlecode.com/                    %%
+%%                                                                    %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%```
 
