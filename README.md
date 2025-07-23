@@ -8,11 +8,12 @@ A estrutura em si do projeto não foi alterada, apenas alguns ajustes foram feit
 
 ## Alterações Realizadas 
   - Alteração no pontilhado do sumário, lista de figuras, lista de quadros, lista de ilustrações, lista de gráficos, etc;
-  - Boa parte dos comentários foram apagados do código para que o aluno pouco habituado não se perca ou se assuste tanto (Coloquei eles ao final desse README);
+  - Os comentários que não eram "úteis" foram removidos para que o aluno pouco habituado não se perca ou se assuste tanto (Coloquei eles ao final desse README);
   - As pré-configurações estão para alunos de licenciatura em matemática por padrão, mas podem ser alteradas sem dificuldade;
   - Alteração da Distância entre o O brasão da Uece e a margem superior da capa;
   - Alteração da Distância entre o nome do curso de graduação e o autor para 1,5cm. (Atente-se a centralização do título);
   - Alteração do nome Lista de Ilustrações para Lista de Figuras;
+  - Atualização do templat para a NBR 10520 publicada em 19 de julho de 2023.
 ### Modelos Disponíveis
 Os modelos disponíveis da versão 2019 continuam funcionando. 
 Vale a ressalva de que as alterações foram realizadas apenas no que diz respeito ao TCC.
