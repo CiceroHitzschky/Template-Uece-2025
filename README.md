@@ -174,6 +174,20 @@ Veja a seguir como inserir alguns elementos no seu texto.
 	}
 \end{algorithm}
 ```
+### Comandos que são padrões em meus códigos por praticidade
+```tex
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%    Comandos Úteis Personalizados    %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\aspas}[1]{``#1''} % comando de aspas
+\DeclareMathOperator{\N}{\mathbb{N}} % Conjunto dos Naturais
+\DeclareMathOperator{\Z}{\mathbb{Z}} % Conjunto dos Inteiros
+\DeclareMathOperator{\Q}{\mathbb{Q}} % Conjunto dos Racionais
+\DeclareMathOperator{\R}{\mathbb{R}} % Conjunto dos Reais
+\DeclareMathOperator{\C}{\mathbb{C}} % Conjunto dos Complexos
+\DeclareMathOperator{\prob}{\mathbb{P}} % Medida de Probabilidade
+```
 
 # Atenção
 Assim como o UeceTeX2 de 2019, este modelo não é oficial da Uece (Não ainda).
@@ -183,8 +197,11 @@ Meus sinceros agradecimentos aos desenvolvedores do UeceTeX2 que reduziram meu s
 
 #### Links Úteis
 [Por Onde Comecar](https://code.google.com/p/abntex2/wiki/PorOndeComecar)
+
 [http://www.goes.uece.br](http://www.goes.uece.br)
+
 [abnTeX2](https://code.google.com/p/abntex2/)
+
 [Overleaf](https://www.overleaf.com/)
 
 # Comentários Removidos
