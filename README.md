@@ -13,7 +13,7 @@ A estrutura em si do projeto não foi alterada, apenas alguns ajustes foram feit
   - Alteração da Distância entre o O brasão da Uece e a margem superior da capa;
   - Alteração da Distância entre o nome do curso de graduação e o autor para 1,5cm. (Atente-se a centralização do título);
   - Alteração do nome Lista de Ilustrações para Lista de Figuras;
-  - Atualização do template para a NBR 10520 publicada em 19 de julho de 2023 (Em andamento).
+  - Atualização do template para a NBR 10520 publicada em 19 de julho de 2023 (Em andamento). Entretanto, esse impasse pode ser contornado por meio de hiperlinks e citações invisíveis com `\cite{}`.
 ### Modelos Disponíveis
 Os modelos disponíveis da versão 2019 continuam funcionando. 
 Vale a ressalva de que as alterações foram realizadas apenas no que diz respeito ao TCC.
@@ -42,7 +42,8 @@ Para utilizar o ueceTeX2 você precisa seguir os seguintes passos:
 # Como compilar?
 
 Este modelo, assim como a versão de 2019, pode ser utilizado de várias maneiras. 
-Aconselhamos que usuários inexperientes utilizem o [Overleaf](https://www.overleaf.com/) para a alteração.
+Aconselhamos que usuários inexperientes utilizem o editores de código online como [Murfy](https://app.murfy.ai/login) para a alteração.
+Outra opção mais comum é o Overleaf. Entranto, atualmente encontra-se limitado para esse tipo de modelo na versão gratuita.
 
 $\textcolor{red}{OBSERVAÇÃO:}$ A depender do que será utilizado em seu trabalho, você pode ter problemas com tempo de compilação no Overleaf apresenta alguns problemas com tempo de compilação.
 Isso pode ocorrer em textos com muitas figuras, principalmente aqueles que utilizam o tikz.
